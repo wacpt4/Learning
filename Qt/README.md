@@ -3,6 +3,7 @@
 |-开源项目demo
 |-指南
 |-安装环境中遇到的问题
+|-需要的库文件
 
 【官网】
 https://account.qt.io/
@@ -22,3 +23,12 @@ Q:1）QtCreator: No valid kits found
 A:
 https://blog.csdn.net/liang19890820/article/details/49894691
 https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/index
+
+全选安装
+
+【需要的库文件】
+boost
+resources
+rosconsole
+std_msgs
+
