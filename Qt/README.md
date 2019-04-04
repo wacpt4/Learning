@@ -39,7 +39,11 @@ resources
 rosconsole
 std_msgs
 转换%(package)s为合法
+
 <QtGui/QMainWindow>   ->  分开声明5.1.12
+
+boost/qt4 问题解决方案
+https://bugreports.qt.io/browse/QTBUG-22829
 
 2【Qt基本类别】
 Q_OBJECT
