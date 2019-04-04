@@ -20,6 +20,8 @@ https://blog.csdn.net/qq_38260691/article/details/79590206
 
 【指南】
 https://qtguide.ustclug.org/
+Doxygen注释格式
+https://blog.csdn.net/jeamywu/article/details/5730006
 
 
 【安装环境中遇到的问题】
@@ -52,4 +54,5 @@ https://blog.csdn.net/ma_nong/article/details/7696690 可以禁止隐式转换
 QWidget类是所有用户界面对象的基类。
 Widget是用户界面的基本单元：它从窗口系统接收鼠标，键盘和其他事件，并在屏幕上绘制自己。
 每个Widget都是矩形的，它们按照Z-order进行排序。 
+https://www.cnblogs.com/billxyd/p/6924229.html
 
