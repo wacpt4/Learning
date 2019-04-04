@@ -22,7 +22,8 @@ https://blog.csdn.net/qq_38260691/article/details/79590206
 https://qtguide.ustclug.org/
 Doxygen注释格式
 https://blog.csdn.net/jeamywu/article/details/5730006
-
+控件指南
+https://blog.csdn.net/hiwoshixiaoyu/article/details/70859879
 
 【安装环境中遇到的问题】
 Q:1）QtCreator: No valid kits found
