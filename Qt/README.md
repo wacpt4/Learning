@@ -15,6 +15,9 @@ https://www.qt.io/offline-installers
 https://blog.csdn.net/zx249388847/article/details/79894025
 http://c.biancheng.net/view/1802.html
 
+ros-qt linux环境.pro配置
+https://blog.csdn.net/qq_38260691/article/details/79590206
+
 【指南】
 https://qtguide.ustclug.org/
 
