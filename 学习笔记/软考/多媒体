@@ -7,3 +7,14 @@ https://www.cnblogs.com/tianyajuanke/p/5945250.html
 传输媒体：传输数据的物理载体，光缆电缆交换设备
 
 图像容量计算 像素数据量x色数log2（色数）
+
+
+1、RGB，原理是相加的
+
+2、YUV(电视，兼容黑白电视)
+
+3、CMY(CMYK) 印刷三原色，原理是相减的
+
+4、HSV(HSB) 艺术家空间
+
+ 
