@@ -29,3 +29,5 @@
 14.VSVW，Computer-Supported Cooperative Work，计算机支持的协同工作。
 
 15.MPLS，Multiprotocol Label Switch，多协议标记交换：是一种标记机制的包交换技术。
+
+16.RISC，Reduced Instruction Set Computer，中文是精简指令集计算机。特点是所有指令的格式都是一致的，所有指令的指令周期也是相同的，并且采用流水线技术。
