@@ -1,0 +1,18 @@
+int length = read_int_from_client();
+char buffer[length];
+int data = read_int_from_client();
+
+那么如果黑客构造出的source长于16字节
+有个strcpy，会一直复制内存，直到遇到\0。
+
+
+
+很多平台的栈变量是跟按地址顺序倒着分配的。
+
+假如编译器生成的代码没有越界检查的话
+比如注入一些jmp指令，让线程跳到黑客想执行的函数。
+
+内存溢出就是内存越界。内存越界有一种很常见的情况是调用
+栈溢出（即stackoverflow），
+缓冲区溢出
+无论栈溢出还是缓冲区溢出都是安全漏洞的温床。
